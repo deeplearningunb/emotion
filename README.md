@@ -11,7 +11,7 @@ Repositório dedicado a introduzir os conhecimentos de ***<i>Deep Learning</i>**
 
 ### O que é uma Rede Neural Convolucional?
 
-No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neural Convolucional (Do inglês - ***<i>Convolutional Neural Network***</i>) é uma classe de rede neural artificial do tipo ***<i>feed-forward***</i>, que vem sendo aplicada com sucesso no processamento e análise de imagens digitais.
+No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neural Convolucional (Do inglês - ***<i>Convolutional Neural Network***</i>) é uma classe de rede neural artificial do tipo ***<i>feed-forward***</i>, que vem sendo aplicada com sucesso no processamento e análise de imagens digitais. Neste projeto fora utilizado o ***MobileNet***. Mobilenet é uma simplificação de redes neurais para possibilitar o seu uso em aplicações web. Eles foram inicialmente projetados para economizar recursos computacionais. O nível de precisão de uma MobileNet é menor que as redes neurais tradicionais, para agilizar o tempo de processamento e economizar recursos.
   
 ### O que é o Tensorflow.JS?
 
@@ -25,7 +25,7 @@ TensorFlow é uma biblioteca de código aberto para aprendizado de máquina apli
 | Lucas Lermen	| lucas.arthur.lermen@gmail.com | [lucasLermen](https://github.com/lucasLermen) |16/0012961|
 | Lucas Macedo	| lpalucas.10@gmail.com | [lukassxp](https://github.com/lukassxp) |15/0137397|
 | Matheus Rodrigues	| matheus.1nascimento58@gmail.com | [matheus-rn](https://github.com/matheus-rn) |16/0015294|
-| Vitor leal	| vitor_leal2201@hotmail.com | [vitorl-s](https://github.com/vitorl-s) |16/0148375|
+| Vitor Leal	| vitor_leal2201@hotmail.com | [vitorl-s](https://github.com/vitorl-s) |16/0148375|
 
 ### Quero ajudar! Como contribuir?
 <p align="justify"> Sua ajuda é muito bem vinda! O guia com todos os passos para contribuir ao Emotion se encontra <a href="https://github.com/deeplearningunb/emotion/blob/master/CONTRIBUTING.md">aqui</a> e não esqueça de seguir nosso código de conduta, para conferir basta clicar <a href="https://github.com/deeplearningunb/emotion/blob/master/CODE_OF_CONDUCT.md">aqui</a>.</p>
@@ -34,4 +34,5 @@ TensorFlow é uma biblioteca de código aberto para aprendizado de máquina apli
 
 https://en.wikipedia.org/wiki/Convolutional_neural_network <br>
 https://en.wikipedia.org/wiki/TensorFlow <br>
-https://www.sas.com/pt_br/insights/analytics/deep-learning.html
+https://www.sas.com/pt_br/insights/analytics/deep-learning.html <br>
+https://blog.fellyph.com.br/javascript/o-que-e-mobilenet/
