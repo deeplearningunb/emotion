@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  deep:
+    container_name: deep
+    command: bash -c "yarn; yarn serve"
+    build: ./
+    volumes:
+      - .:/app
+    ports:
+      - '8080:8080'
+    tty: true  
+    networks:
+      - api-backend
+networks:
+  api-backend:
+    external:
+      name: api-backend    
