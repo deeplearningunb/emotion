@@ -2,7 +2,7 @@
 name: Issue de desenvolvimento
 about: Descrição de uma issue de desenvolvimento
 title: "[DEV]"
-labels: Desenvolvimento
+labels: ''
 assignees: ''
 
 ---
