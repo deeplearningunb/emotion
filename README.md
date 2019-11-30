@@ -17,6 +17,28 @@ No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neu
 
 TensorFlow é uma biblioteca de código aberto para aprendizado de máquina aplicável a uma ampla variedade de tarefas. É um sistema para criação e treinamento de redes neurais para detectar e decifrar padrões e correlações, análogo, porém não idêntico à forma como humanos aprendem e raciocinam. Ele é usado tanto para a pesquisa quanto produção no Google. O TensorFlow foi desenvolvido para ter suporte de várias linguagens. A linguagem suportada e utilizada neste projeto foi o JavaScript, porém o melhor suporte obtido pela biblioteca é na linguagem Python.
 
+### Como testar o projeto?
+
+Entre na pasta app e execute o comando:
+
+> docker-compse up --build
+
+Em outro terminal, entre na pasta serve e execute o mesmo comando:
+
+> docker-compse up --build
+
+Acesse a porta 8080:
+
+> http://localhost:8080
+
+Faça o treinamento selecioando as opções: Angry, Neutral ou Happy. Em seguida vá para o modo de teste, clique no botão 'Treine o modelo' e o resultado aparecerá logo abaixo, existe um dashboard com a contagem dos resultados.
+
+Para acessar o dashboard acesse com a rota:
+
+> http://localhost:8080/dashboard
+
+
+
 ### Conheça nossa equipe
 
 | Membro | E-mail | Github |Matricula|
