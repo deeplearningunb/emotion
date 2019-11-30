@@ -1,10 +1,10 @@
 <template>
   <div class="train">
     <template v-if="mode == 'train'">
-        <h1>escreve ai</h1>
+        <h1>Treine sua emoção</h1>
     </template>
     <template v-else>
-        <h1>escreve ai</h1>
+        <h1>Descubra qual sua emoção</h1>
     </template>
     <select id="use_case" v-on:change="changeOption()">
         <option value="train">Train</option>
