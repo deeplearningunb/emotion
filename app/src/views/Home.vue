@@ -28,7 +28,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import Camera from "@/components/Camera.vue";
 import * as tf from '@tensorflow/tfjs';
 import * as mobilenetModule from '@tensorflow-models/mobilenet';
@@ -85,7 +84,7 @@ export default {
           axios.post('http://localhost:3128/callback', {
               'emotion': this.detected_e
           }).then( () => {
-              alert('Thanks for letting us know how you feel');
+              alert('Obrigado por demostrar como você está se sentindo no momento!');
           });
       }
     }
