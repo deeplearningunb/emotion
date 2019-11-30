@@ -2,7 +2,7 @@
 
 Repositório dedicado a introduzir os conhecimentos de ***<i>Deep Learning</i>*** para qualquer pessoa. Este projeto consiste-se na detecção de emoções a partir da webcam, utilizando-se de conhecimentos como : <br>
 
-  - Rede neurais convolucionais
+  - Redes neurais convolucionais
   - Tensorflow.JS
   
 ### O que é Deep Learning?
