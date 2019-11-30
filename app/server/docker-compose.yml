@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  server:
+    container_name: server
+    command: bash -c "yarn; yarn start"
+    build: ./
+    volumes:
+      - .:/app
+    ports:
+      - '3128:3128'
+    tty: true
+    networks:
+      - api-backend
+networks:
+  api-backend:
+    external:
+      name: api-backend    
