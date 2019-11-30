@@ -11,7 +11,7 @@ Repositório dedicado a introduzir os conhecimentos de ***<i>Deep Learning</i>**
 
 ### O que é uma Rede Neural Convolucional?
 
-No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neural Convolucional (Do inglês - ***<i>Convolutional Neural Network***</i>) é uma classe de rede neural artificial do tipo ***<i>feed-forward***<i>, que vem sendo aplicada com sucesso no processamento e análise de imagens digitais.
+No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neural Convolucional (Do inglês - ***<i>Convolutional Neural Network***</i>) é uma classe de rede neural artificial do tipo ***<i>feed-forward***</i>, que vem sendo aplicada com sucesso no processamento e análise de imagens digitais.
   
 ### O que é o Tensorflow.JS?
 
