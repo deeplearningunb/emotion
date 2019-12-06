@@ -2,11 +2,16 @@
 
 Repositório dedicado a introduzir os conhecimentos de ***<i>Deep Learning</i>*** para qualquer pessoa. Este projeto consiste-se na detecção de emoções a partir da webcam, utilizando-se de conhecimentos como : <br>
 
+  - Redes Neurais Convolucionais
   - Tensorflow.JS
   
 ### O que é Deep Learning?
 
 É uma técnica muito específica de Machine Learning, e consequentemente de Inteligência artificial. É uma maneira de implementar a técnica específica, que usa as chamadas redes neurais artificiais, correspondentes a uma classe de algoritmos de machine learning. Sendo assim, temos que **Deep Learning**, é uma técnica de Machine Learning, baseada em redes neurais artificiais.
+
+### O que é uma Rede Neural Convolucional?
+
+No contexto de inteligência artificial e aprendizagem de máquina, uma Rede Neural Convolucional (Do inglês - ***<i>Convolutional Neural Network***</i>) é uma classe de rede neural artificial do tipo ***<i>feed-forward***</i>, que vem sendo aplicada com sucesso no processamento e análise de imagens digitais. Neste projeto fora utilizado o ***MobileNet***. Mobilenet é uma simplificação de redes neurais para possibilitar o seu uso em aplicações web. Eles foram inicialmente projetados para economizar recursos computacionais. O nível de precisão de uma MobileNet é menor que as redes neurais tradicionais, para agilizar o tempo de processamento e economizar recursos.
   
 ### O que é o Tensorflow.JS?
 
