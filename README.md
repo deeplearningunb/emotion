@@ -37,6 +37,11 @@ Para acessar o dashboard acesse com a rota:
 
 > http://localhost:8080/dashboard
 
+### Próximos passos
+
+- No atual momento, para realizar um treinamento, as imagens devem ser tiradas pelo próprio usuário. A ideia é que no futuro, assim que o programa for inicializado, ele utilize um banco de imagens para realizar um treinamento automático.
+
+- O passo seguinte seria realizar o deploy da aplicação, para que seja possível os usuários contribuirem com o treinamento, tornando nossa base imagens maior e a classificação cada vez melhor, além de facilitar o acesso dos usuários a aplicação.
 
 
 ### Conheça nossa equipe
