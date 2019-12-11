@@ -39,10 +39,13 @@ Para acessar o dashboard acesse com a rota:
 
 ### Próximos passos
 
-- No atual momento, para realizar um treinamento, as imagens devem ser tiradas pelo próprio usuário. A ideia é que no futuro, assim que o programa for inicializado, ele utilize um banco de imagens para realizar um treinamento automático.
+A equipe traçou os seguintes objetivos de evolução para o projeto:
 
-- O passo seguinte seria realizar o deploy da aplicação, para que seja possível os usuários contribuirem com o treinamento, tornando nossa base imagens maior e a classificação cada vez melhor, além de facilitar o acesso dos usuários a aplicação.
+- **Lançar v0.2** - No atual momento, para realizar um treinamento, as imagens devem ser tiradas pelo próprio usuário. A ideia é que no futuro, assim que o programa for inicializado, ele utilize um banco de imagens para realizar um treinamento automático.
 
+- **Lançar v0.3** - O passo seguinte seria realizar o deploy da aplicação, para que seja possível os usuários contribuirem com o treinamento, tornando nossa base imagens maior e a classificação cada vez melhor, além de facilitar o acesso dos usuários a aplicação.
+
+Caso queira ajudar na evolução do projeto, confira o tópico **Quero ajudar! Como contribuir?** 
 
 ### Conheça nossa equipe
 
