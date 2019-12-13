@@ -1,9 +1,6 @@
 ### Emotion
 
-Repositório dedicado a introduzir os conhecimentos de ***<i>Deep Learning</i>*** para qualquer pessoa. Este projeto consiste-se na detecção de emoções a partir da webcam, utilizando-se de conhecimentos como : <br>
-
-  - Redes Neurais Convolucionais
-  - Tensorflow.JS
+Este projeto consiste-se na detecção de emoções a partir da webcam, é util caso seja utilizado como complemento de algum sistema, possibilitando a detecção da emoção de um usuário acerca de uma determinada atualização no software, ou satisfação na utilização de alguma funcionalidade contida no sistema.
   
 ### O que é Deep Learning?
 
